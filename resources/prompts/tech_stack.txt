@@ -1,0 +1,2 @@
+Using the job description, generate a list of all programming languages and technologies required by the position.
+List the languages and technologies from most important to least important, using the job description as a guide.

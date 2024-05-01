@@ -1,0 +1,44 @@
+PURPOSE OF THE JOB
+As Backend Engineer, you will work on one of the world's largest social media platforms which deals with a few petabytes of data coming to the system daily. You will chip in as part of R&D self-organized team working in a complicated, innovative environment for our client.
+Investigate, create, and implement the solutions for many technical challenges using groundbreaking technologies, including building/enhancing data processing platform enabling work of software used by hundreds of millions of users.
+MAIN TASKS AND RESPONSIBILITIES
+
+    Obtains tasks from the project lead or Team Lead (TL), prepares functional and design specifications, approves them with all collaborators.
+    Ensures that assigned area/areas are delivered within set deadlines and required quality objectives.
+    Provides estimations, agrees task duration with the manager and gives to project plan of assigned area.
+    Evaluating existing data systems.
+    Developing standard processes for data coding to ensure consistency within the system.
+    Updating and optimizing local and metadata models.
+    Evaluating implemented data systems for variances, discrepancies, and efficiency.
+    Solving and optimizing data systems.
+    Understand the business drivers and analytical use-cases and translate these to data products
+    Design, implement and maintain pipelines that produce business critical data successfully and efficiently using cloud technology
+    Addresses area-level risks, provides and implements mitigation plan.
+    Reports about area readiness/quality, and raise red flags in crisis situations which are beyond their AOR.
+    Responsible for resolving crisis situations within their AOR.
+    Initiates and conducts code reviews, creates code standards, conventions, and guidelines.
+    Suggests technical and functional improvements to make valuable contributions to the product.
+    Constantly improves their professional level.
+    Collaborates with other teams.
+
+REQUIRED EDUCATION AND EXPERIENCE
+Must have:
+
+    University degree in Computer Related Sciences or similar
+    5+ years of experience as full stack engineer.
+    Solid Java coding skill
+    Experience with Cache and Infra services development is must.
+    Experience with JS & HTML
+    Ability to organize and document solutions.
+    A passon for streamlining systems and processes to make the difficult trivial.
+    Strong OOP skills
+    Effective communication (oral & written), collaboration, and interpersonal skills.
+    Result oriented approach.
+
+Would be a plus:
+
+    Experience with AWS (S3
+    Experience with Java 18 and JDK 18.
+
+
+

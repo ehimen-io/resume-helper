@@ -1,0 +1,5 @@
+Using the job description, generate 15 resume bullet points that align closely with the position.
+All bullet points must be measured in dollars or percentages. Use percentages between 25% and 40%.
+Assume the owner of the resume is the perfect fit for the position.
+Generate specific examples of work for each bullet point.
+List the bullet points from most relevant to least relevant, using the job description as a guide.
