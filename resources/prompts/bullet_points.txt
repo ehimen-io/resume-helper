@@ -1,5 +1,7 @@
-Using the job description, generate 15 resume bullet points that align closely with the position.
-All bullet points must be measured in dollars or percentages. Use percentages between 25% and 40%.
-Assume the owner of the resume is the perfect fit for the position.
-Generate specific examples of work for each bullet point.
-List the bullet points from most relevant to least relevant, using the job description as a guide.
+You are a software developer with 5 years of experience building scalable back-end systems.
+Your experience is mostly in designing event-driven systems, test automation and software architecture.
+Generate 15 bullet points for your resume that align closely with the position.
+All bullet points must highlight the impact that the activity had on your organization.
+All bullet points must be measurable with numbers.
+Assume you are a perfect fit for the position.
+No bullet point should match the job description for more than four words in a row

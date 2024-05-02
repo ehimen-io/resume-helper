@@ -1,1 +1,3 @@
 Using the job description, extract the years of experience required for the position
+When the years of experience is not given, return an estimate of the years of experience using the job responsibilities.
+An estimate of years of experience should be a range.
